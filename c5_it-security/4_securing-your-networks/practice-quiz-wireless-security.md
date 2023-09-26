@@ -52,3 +52,15 @@ Select the most secure WiFi security configuration from below:
 * None
 
 > WPA2 Enterprise would offer the highest level of security for a WiFi network. It offers the best encryption options for protecting data from eavesdropping third parties, and does not suffer from the manageability or authentication issues that WPA2 Personal has with a shared key mechanism. WPA2 Enterprise used with TLS certificates for authentication is one of the best solutions available.
+
+<br>
+
+### Question 5
+
+What process authenticates clients to a network?
+
+* **Four-way handshake**
+* TKIP
+* WPA2
+* HMAC-SHA1
+
